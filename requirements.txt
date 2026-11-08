@@ -1,6 +1,7 @@
-   streamlit
-   pandas
-   joblib
-   scikit-learn
-   numpy
-   pillow
+streamlit
+pandas
+joblib
+scikit-learn
+numpy
+pillow
+matplotlib
