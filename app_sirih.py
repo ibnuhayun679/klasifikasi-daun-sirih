@@ -31,6 +31,7 @@ h1, h2, h3, p, label, span, div { color: var(--teks); }
 }
 [data-testid="stFileUploader"] section small, [data-testid="stFileUploader"] section span { color: var(--redup); }
 [data-testid="stFileUploader"] button { background: var(--aksen); color: #ffffff; border: 0; font-weight: 700; }
+[data-testid="stFileUploader"] button, [data-testid="stFileUploader"] button * { color: #ffffff !important; }
 [data-testid="stImage"] img { border-radius: 14px; border: 1px solid var(--garis); }
 .kartu { background: var(--card); border: 1px solid var(--garis); border-radius: 14px; padding: 1.3rem 1.4rem; margin-bottom: 1rem; }
 .kartu-kepala { display: flex; align-items: center; gap: .7rem; color: var(--redup); font-weight: 600; margin-bottom: .6rem; }
